@@ -1,7 +1,7 @@
 class Github {
     constructor(){
-        this.userUserId = "";
-        this.userClientSecret = "";
+        this.userUserId = "";   //add your own Clint ID
+        this.userClientSecret = ""; //add your own Client Secret
         this.reposCount = 5;
         this.reposSort = "created: asc"
     }
