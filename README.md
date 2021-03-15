@@ -13,7 +13,7 @@ https://rhtweb.github.io/GitHub-Finder/
 <br />
 <table>
   <tr>
-   <td><img src="https://user-images.githubusercontent.com/55020650/111151210-28803e00-85b5-11eb-989d-66de660a0389.jpg" width="500" height="500"></td>
+   <td><img src="https://user-images.githubusercontent.com/55020650/111151210-28803e00-85b5-11eb-989d-66de660a0389.jpg" width="700" height="500"></td>
    <td>
     <h3>Contact Me</h3>
 <ul>
